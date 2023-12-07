@@ -46,11 +46,8 @@ Description
 
 ###### 開發前的配置要求
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
-3. 23
-4. 323
-5. 323
+1. Windows 11
+2. Colaboratory
 
 ###### **安裝步驟**
 
@@ -65,22 +62,15 @@ git clone https://github.com/your_github_name/your_repository.git
 eg:
 
 ```
-filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
+filetree
+├── /訓練資料集/
+│  └── opendid_all.tsv
+│  └── opendid_set1.tsv
+│  └── opendid_set2.tsv
+├── /資料前處理/
+│  └── Data__reprocessing.ipynb
+├── AICUP_Pythia.ipynb
 ├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
 
 ```
 
