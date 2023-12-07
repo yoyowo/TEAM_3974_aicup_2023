@@ -49,7 +49,7 @@ Description
 1. Windows 11
 2. Colaboratory
 
-###### **安裝步驟**
+###### **步驟**
 
 1. 將訓練資料集存放在google雲端硬碟上
 2. 使用Colaboratory去執行AICUP_Pythia.ipynb
@@ -58,9 +58,6 @@ Description
 5. 將前處理過後的資料存入google雲端硬碟
 6. 開始預測，產出answer.txt檔案
 
-```sh
-git clone https://github.com/your_github_name/your_repository.git
-```
 
 ### 檔目錄說明
 eg:
