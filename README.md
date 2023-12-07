@@ -8,9 +8,9 @@ Description
 <br />
 
 <p align="center">
-  <h3 align="center">README範本</h3>
+  <h3 align="center">aicup_2023</h3>
   <p align="center">
-    一個"完美的"README範本去快速開始你的專案！
+    aicup_2023_TEAM_3974的程式
     <br />
     <a href="https://github.com/your_github_name/your_repository"><strong>探索本專案的文檔 »</strong></a>
     <br />
