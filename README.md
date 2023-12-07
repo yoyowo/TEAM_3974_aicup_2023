@@ -53,7 +53,7 @@ Description
 
 1. 將訓練資料集存放在google雲端硬碟上
 2. 使用Colaboratory去執行AICUP_Pythia.ipynb
-3. 開始挑整模型參數及訓練參數
+3. 開始調整模型參數及訓練參數
 4. 並將資料進行前處理
 5. 將前處理過後的資料存入google雲端硬碟
 6. 開始預測，產出answer.txt檔案
