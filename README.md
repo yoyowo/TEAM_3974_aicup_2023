@@ -51,12 +51,13 @@ Description
 
 ###### **步驟**
 
-1. 將訓練資料集存放在google雲端硬碟上
-2. 使用Colaboratory去執行AICUP_Pythia.ipynb
-3. 開始調整模型參數及訓練參數
-4. 並將資料進行前處理
-5. 將前處理過後的資料存入google雲端硬碟
-6. 開始預測，產出answer.txt檔案
+1.將訓練資料集存放於google雲端硬碟
+2.使用Colaboratory執行AICUP_Pythia.ipynb檔案
+3.調整模型參數及訓練參數
+4.將資料進行前處理
+5.將處理後的病歷文本檔案存放於google雲端硬碟
+6.將文本檔案匯入模型
+7.開始預測，產出answer.txt檔案
 
 
 ### 檔目錄說明
