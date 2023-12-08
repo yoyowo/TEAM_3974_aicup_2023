@@ -92,7 +92,7 @@ filetree
 - [transformers]([https://getbootstrap.com](https://huggingface.co/docs/transformers/index))
 - [datasets]([https://getbootstrap.com](https://huggingface.co/docs/datasets/index))
 - [torch]([https://jquery.com](https://pytorch.org/))
-- [tqdm]([https://laravel.com](https://github.com/tqdm/tqdm))
+- [tqdm]((https://github.com/tqdm/tqdm))
 
 ### 版本控制
 
