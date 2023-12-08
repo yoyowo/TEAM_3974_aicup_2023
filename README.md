@@ -89,10 +89,10 @@ filetree
 
 ### 使用到的框架
 
-- [transformers]([https://getbootstrap.com](https://huggingface.co/docs/transformers/index))
-- [datasets]([https://getbootstrap.com](https://huggingface.co/docs/datasets/index))
-- [torch]([https://jquery.com](https://pytorch.org/))
-- [tqdm]((https://github.com/tqdm/tqdm))
+- [transformers](https://huggingface.co/docs/transformers/index)
+- [datasets](https://huggingface.co/docs/datasets/index)
+- [torch](https://pytorch.org/)
+- [tqdm](https://github.com/tqdm/tqdm)
 
 ### 版本控制
 
