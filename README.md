@@ -65,14 +65,13 @@ eg:
 
 ```
 filetree
-├── /icons/
-│  └── icon16.png
-│  └── icon48.png
-│  └── icon128.png
-├── manifest.json
-├── popup.css
-├── popup.html
-├── popup.js
+├── /訓練資料集/
+│  └── opendid_all.tsv
+│  └── opendid_set1.tsv
+│  └── opendid_set2.tsv
+├── /資料前處理/
+│  └── Data__reprocessing.ipynb
+├── AICUP_Pythia.ipynb
 ├── README.md
 
 ```
@@ -91,6 +90,10 @@ filetree
 
 ### 使用到的框架
 
+- [transformers](https://huggingface.co/docs/transformers/index)
+- [datasets](https://huggingface.co/docs/datasets/index)
+- [torch](https://pytorch.org/)
+- [tqdm](https://github.com/tqdm/tqdm)
 
 ### 版本控制
 
@@ -98,10 +101,12 @@ filetree
 
 ### 作者
 
-jiaX1an
+C110154243@nkust.edu.tw
+C110154254@nkust.edu.tw
 
  *您也可以在貢獻者名單中參看所有參與該專案的開發者。*
 
 ### 版權說明
 
 該項目簽署了MIT 授權許可，詳情請參閱 [LICENSE.txt](https://github.com/your_github_name/your_repository/blob/master/LICENSE.txt)
+
